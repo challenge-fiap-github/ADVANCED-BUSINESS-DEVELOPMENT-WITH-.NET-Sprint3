@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OdontoVision.Application/1.0.0": {
+        "dependencies": {
+          "OdontoVision.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OdontoVision.Application.dll": {}
+        }
+      },
+      "OdontoVision.Domain/1.0.0": {
+        "runtime": {
+          "OdontoVision.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OdontoVision.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdontoVision.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

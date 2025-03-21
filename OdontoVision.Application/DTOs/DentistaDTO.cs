@@ -1,0 +1,10 @@
+namespace OdontoVision.Application.DTOs
+{
+    public class DentistaDTO
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Cpf { get; set; }
+        public string Especialidade { get; set; }
+    }
+}
