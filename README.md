@@ -9,7 +9,7 @@
 | **554199** | Matheus Duarte Oliveira          |
 
 
-#### obs: qualquer problema ao rodar acessar esse arquivo no Drive, pois tivemos que mudar o repositório de última hora:
+#### obs: qualquer problema ao rodar acessar esse arquivo no Drive, pois tivemos que mudar o repositório de última hora (codigo reserva)
 
 https://drive.google.com/drive/folders/1e39wduzlgwhViOzYtA1YLaiYxBmx3qzl?hl=pt-br 
 
