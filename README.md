@@ -1,6 +1,5 @@
-#OdontoVision
+# OdontoVision
 
----
 
 ## 👥 Equipe
 | Matrícula  | Nome                              |
